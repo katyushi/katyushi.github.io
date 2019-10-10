@@ -1,4 +1,4 @@
-const obj = JSON.parse({
+const obj = "{
     "articles": [ 
     {
         'title': 'Etec Fantasy 2018',
@@ -68,7 +68,7 @@ const obj = JSON.parse({
         'title': 'Inscrições Unesp',
         'description': '<ul><li>Inscrições: 10 de setembro e vão até 8 de outubro.</li><li>isenção e redução da taxa: Antes deste período, porém, a instituição divulgará as datas para pedidos de isenção e redução da taxa. </li><li>Primeira fase: 15 de novembro (quinta-feira)</li><li>Segunda fase: 16 e 17 de dezembro (domingo e segunda-feira).</li><li>Informações:</li><li>No dia 15 de novembro, os candidatos terão que comparecer aos locais correspondentes para participar da 1ª fase do processo seletivo.</li><li>A prova contará com 90 questões objetivas sobre as áreas especificadas nos Parâmetros Curriculares Nacionais do Ensino Médio.</li><li>Na 2ª fase da Unesp, que acontecerá nos dias 16 e 17 de dezembro, os candidatos terão que responder questões discursivas e produzir UMA REDAÇÃO.</li><li>Resultado final: 1º de fevereiro de 2019. Site: https://www2.unesp.br/</li></ul>'
     }
-]});
+]}
 
 // Requiring fs module in which 
 // writeFile function is defined. 
