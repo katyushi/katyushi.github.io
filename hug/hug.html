@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://unpkg.com/jquery.terminal/js/jquery.terminal.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/jquery.terminal/css/jquery.terminal.min.css" />
+</head>
+
+<body>
+    <script>
+        $('body').terminal({
+                cat: function (width, height) {
+                    const img = $('<img src="https://placekitten.com/' +
+                        width + '/' + height + '">');
+                    img.on('load', this.resume);
+                    this.pause();
+                    this.echo(img);
+                },
+                quest: function(key) {
+                    if (key === 'death') {
+                        this.echo('link');
+                    }else {
+                        this.echo('not what i am looking for');
+                    }
+                },
+                about: function() {
+                    this.echo('Terminal für meine Loli von Kätzchen gemacht');
+                },
+                help: function () {
+                    const help = '\n cat $width $height: display a cat ex: cat 800 600\n quest: ?\n about: ?\n';
+                    this.echo(help);
+                },
+            }, {
+                greetings: 'I was expecting you\n' + 'help?'
+            });
+    </script>
+</body>
+
+</html>
