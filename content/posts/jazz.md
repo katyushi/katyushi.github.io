@@ -8,7 +8,7 @@ keywords:
     - Jazz
 ---
 
-so one of my favorite music genres it's jazz i've made a couple of playlists so here's some of my favourites from these playlists
+so one of my favorite music genres it's jazz I've made a couple of playlists so here's some of my favorites from these playlists
 
 ## songs
 
