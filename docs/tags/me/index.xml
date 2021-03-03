@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>me on Hugo Lazzari&#39;s Personal Blog</title>
+    <link>https://katyushi.github.io/tags/me/</link>
+    <description>Recent content in me on Hugo Lazzari&#39;s Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Hugo Lazzari</copyright>
+    <lastBuildDate>Tue, 02 Mar 2021 21:22:58 -0300</lastBuildDate><atom:link href="https://katyushi.github.io/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>An update</title>
+      <link>https://katyushi.github.io/posts/an_update/</link>
+      <pubDate>Tue, 02 Mar 2021 21:22:58 -0300</pubDate>
+      
+      <guid>https://katyushi.github.io/posts/an_update/</guid>
+      <description>so I kinda forgot about the blog or where the code was, anyway here&amp;rsquo;s an update since last time:
+so I ended up leaving yampi November last year and after a few resting and looking for jobs months I started at web.art group</description>
+    </item>
+    
+  </channel>
+</rss>
