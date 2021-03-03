@@ -1,5 +1,5 @@
 ---
-title: "About_games"
+title: "About games"
 date: 2021-03-02T21:36:45-03:00
 tags:
     - games
